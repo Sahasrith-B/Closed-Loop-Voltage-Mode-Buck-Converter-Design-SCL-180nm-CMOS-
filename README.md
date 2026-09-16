@@ -1,4 +1,4 @@
-# Closed-Loop-Voltage-Mode-Buck-Converter-Design-SCL-180nm-CMOS
+# Closed-Loop Voltage-Mode Buck Converter — SCL 180nm CMOS
 
 **EE 660 Power Management IC Design | 2025–26 Semester II | Project 2**
 **Author:** Sahasrith Bootla (23110064)
@@ -74,30 +74,15 @@ A full transistor-level implementation of a closed-loop, voltage-mode buck conve
 
 ```
 .
-├── docs/
-│   ├── EE660_Project2_Spec.pdf        # Original assignment specification
-│   ├── Part1_Ideal_Design.pdf
-│   ├── Part2_Transistor_Level.pdf
-│   └── Part3_Integration.pdf
-├── schematics/
-│   ├── part1_power_stage/
-│   ├── part1_compensator/
-│   ├── part2_comparator_srlatch/
-│   ├── part2_ramp_clk/
-│   ├── part2_pwm_modulator/
-│   ├── part2_buffer_driver/
-│   ├── part2_error_amplifier/
-│   └── part3_full_system/
-├── sizing_tables/
-│   └── transistor_wl_tables.md
-├── results/
-│   ├── waveforms/
-│   ├── bode_plots/
-│   └── transient_plots/
+├── SWR_Project.pdf     # Original assignment specification (Project 2)
+├── part1.pdf           # Part 1: Ideal-component power stage + small-signal compensator design
+├── part2.pdf           # Part 2: Transistor-level sub-blocks (comparator, SR latch,
+│                        #         ramp/clock, PWM modulator, driver, error amplifier)
+├── part3.pdf           # Part 3: Full integration, optimization, and final results
 └── README.md
 ```
 
-> Adjust folder names to match your actual Cadence project/library structure.
+> Each PDF is the full submitted report for that part (schematics, sizing tables, and simulation plots are embedded within the PDFs themselves rather than kept as separate image/schematic files).
 
 ---
 
