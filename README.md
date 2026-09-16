@@ -1,5 +1,4 @@
-# Closed-Loop-Voltage-Mode-Buck-Converter-Design-SCL-180nm-CMOS-
-# Closed-Loop Voltage-Mode Buck Converter — SCL 180nm CMOS
+# Closed-Loop-Voltage-Mode-Buck-Converter-Design-SCL-180nm-CMOS
 
 **EE 660 Power Management IC Design | 2025–26 Semester II | Project 2**
 **Author:** Sahasrith Bootla (23110064)
